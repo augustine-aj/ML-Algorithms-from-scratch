@@ -2,6 +2,9 @@
 
 # Simple Univariate Linear Regression algorithm
 
+You can access the PDF document from the following Google Drive link:
+https://drive.google.com/file/d/1TrkHoBFQVj8HJUjYYV2USLsolJADMq9P/view?usp=sharing
+
 ## Overview
 This repository contains details about the Univariate Linear Regression Algorithm. The algorithm is a fundamental machine learning technique used to model the relationship between a single independent variable and a dependent variable by fitting a linear equation to observed data.
 
