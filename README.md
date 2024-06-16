@@ -1,1 +1,3 @@
 # Creating-my-own-ml-algorithms
+
+live coding video and pdf will upload soon....
